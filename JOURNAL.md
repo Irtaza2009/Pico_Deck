@@ -53,7 +53,7 @@ Then I posted the Schematic and PCB design on [r/PrintedCircuitBoard](https://ww
 <b>Schematic:</b>
 </summary>
 <p>
-<img width="1270" height="845" alt="SCH_PicoDeck_1_1-P1_2025-07-13" src="https://github.com/user-attachments/assets/8a4702eb-084c-41d8-b62b-36b695e94183" />
+<img width="1270" height="845" alt="SCH_PicoDeck_1_1-P1_2025-07-13 (2)" src="https://github.com/user-attachments/assets/c82fc493-f542-48d3-96d9-278cfa199211" />
 </p>
 </details>
 
@@ -62,8 +62,8 @@ Then I posted the Schematic and PCB design on [r/PrintedCircuitBoard](https://ww
 <b>PCB:</b>
 </summary>
 <p>
-<img width="714" height="335" alt="image - 2025-07-13T014217 792" src="https://github.com/user-attachments/assets/773044ff-69c9-4aab-93c3-642981f49cec" align="center"/>
-<img width="714" height="335" alt="image - 2025-07-13T014237 648" src="https://github.com/user-attachments/assets/d34f3c2b-38d2-4aa4-baee-27434071e706" align="center"/>
+<img width="714" height="335" alt="PCB Top Layer" src="https://github.com/user-attachments/assets/773044ff-69c9-4aab-93c3-642981f49cec" align="center"/>
+<img width="714" height="335" alt="PCB Bottom Layer" src="https://github.com/user-attachments/assets/c9127008-7c07-4917-80c3-e31240565601" align="center"/>
 </p>
 </details>
 
