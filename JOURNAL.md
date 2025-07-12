@@ -35,3 +35,38 @@ After that, I went to the PCB tab, updated all the components, and placed them i
 </details>
 
 **Total time spent: 7 hours**
+
+## July 12th: Finished Schematic + PCB design and Firmware!
+
+I started off by moving around some components and then autorouting again. It did not work. I had to move around components, change the board outline, and manually route some components myself. After 8 tries, auto-routing finally managed to route everything except for 2 pads, which I manually routed. All of this auto routing took a lot of time (>5-10minutes every time), so I also started working on the firmware side-by-side!
+
+I used CircuitPython for the firmware because I have used it for past projects like [Hackamon](https://github.com/Irtaza2009/Hackamon).
+
+I had 4 buttons, and using the adafruit_hid library, I mapped the buttons to copy, paste, undo, and redo! Then I used the neopixel library to make some animations using the WS2812Bs!! At boot, the LEDs will light up a red-to-green gradient left to right, and then turn green! And upon any button press, they will play a blue wipe animation, and then return to green!
+
+Once the basic firmware was done, I went back to my PCB and made a new, improved outline and made sure it was symmetrical! Finally, I used [this checklist](https://libsharedobject.so/howsmypcb.html) to make sure my PCB was alright, and it was not :(. I was using vias on the USB data lines, and also, the data lines were not of equal length. So I removed all the routes, did the USB data line manually, and then auto-routed again! This time, it left 6 pins un-routed, which I had to move components, traces, etc., to fix. But finally, I got 0 errors on the DRC! I added ground planes on both layers for good measure, and finally, my PCB design was finished! 
+
+Then I posted the Schematic and PCB design on [r/PrintedCircuitBoard](https://www.reddit.com/r/PrintedCircuitBoard/) for a review!
+
+<details>
+<summary>
+<b>Schematic:</b>
+</summary>
+<p>
+<img width="1270" height="845" alt="SCH_PicoDeck_1_1-P1_2025-07-13" src="https://github.com/user-attachments/assets/8a4702eb-084c-41d8-b62b-36b695e94183" />
+</p>
+</details>
+
+<details>
+<summary>
+<b>PCB:</b>
+</summary>
+<p>
+<img width="714" height="335" alt="image - 2025-07-13T014217 792" src="https://github.com/user-attachments/assets/773044ff-69c9-4aab-93c3-642981f49cec" align="center"/>
+<img width="714" height="335" alt="image - 2025-07-13T014237 648" src="https://github.com/user-attachments/assets/d34f3c2b-38d2-4aa4-baee-27434071e706" align="center"/>
+</p>
+</details>
+
+**Total time spent: 6 hours**
+
+
