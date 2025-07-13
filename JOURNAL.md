@@ -69,4 +69,8 @@ Then I posted the Schematic and PCB design on [r/PrintedCircuitBoard](https://ww
 
 **Total time spent: 6 hours**
 
+## July 13th: Review + Schematic and PCB Changes 
 
+I received some valuable feedback from my Reddit post, which prompted me to change the voltage regulator from the AMS1117-3.3 to the AP2112K-3.3. I also fixed several pins on the schematic and added more vias to the ground planes. I attempted to switch to a four-layer design but found the routing to be challenging, so I decided to revert to two layers. I believe the PCB can be finalised now!
+
+**Total time spent: 2 hours**
