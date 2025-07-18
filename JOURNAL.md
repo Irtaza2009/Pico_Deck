@@ -87,3 +87,13 @@ I exported the models as .3mf, because .step is only for the PRO version!
 <img width="1000" height="1000" alt="3D Case Bottom" src="https://github.com/user-attachments/assets/619b6c87-6cf4-4fbf-9642-200cebef4399" />
 
 **Total time spent: 2.5 hours**
+
+## July 18th: USB Rubber Ducky Update
+
+I just realised that this device can be transformed into a perfect rubber ducky! A USB rubber ducky is a device that replicates keyboard keystrokes at a much higher speed.
+
+I immediately got to work creating a CircuitPython script that runs different scripts on the computer depending on which button is pressed. The script can execute one of four payloads based on the button pressed. I reused the light and gradient animations from the Macropad script! Additionally, I created two payloads, one for Windows and one for Mac, that will open the terminal and display the message, "Hello from the rubber ducky!"!!
+
+**Total time spent: 1.5 hours**
+
+
