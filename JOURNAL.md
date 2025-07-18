@@ -88,12 +88,16 @@ I exported the models as .3mf, because .step is only for the PRO version!
 
 **Total time spent: 2.5 hours**
 
-## July 18th: USB Rubber Ducky Update
+## July 18th: USB Rubber Ducky Update + BOM  
 
 I just realised that this device can be transformed into a perfect rubber ducky! A USB rubber ducky is a device that replicates keyboard keystrokes at a much higher speed.
 
 I immediately got to work creating a CircuitPython script that runs different scripts on the computer depending on which button is pressed. The script can execute one of four payloads based on the button pressed. I reused the light and gradient animations from the Macropad script! Additionally, I created two payloads, one for Windows and one for Mac, that will open the terminal and display the message, "Hello from the rubber ducky!"!!
 
-**Total time spent: 1.5 hours**
+Then I started working on submitting and making the BOM, and had to go through device standardisation on EasyEDA, and that took a lot of time and revisions!
+
+After that was done, I exported the BOM and started adding links and prices for each of the parts!
+
+**Total time spent: 5.5 hours**
 
 
