@@ -1,7 +1,7 @@
 ---
 title: "Pico Deck"
 author: "@Irtaza"
-description: "A small flash drive, but with buttons (for shortcuts) and LEDs instead of storage!! With a custom RP2040 devboard!"
+description: "A small flash drive, but with buttons (for shortcuts) and LEDs instead of storage!! With a custom RP2040 devboard! And with USB rubber ducky capabilities!"
 created_at: "2025-07-11"
 ---
 
