@@ -2,6 +2,8 @@
 
 ### **A flash-drive-sized USB macropad and rubber ducky!**  
 
+![](https://github.com/user-attachments/assets/27353931-329f-45f5-a6fa-f622600613f3)
+
 A small **flash-drive** but with *__buttonnnnsssss for shortcuts__* instead of storage!! And with a _custom **rp2040** devboard!_
 And _**LEDDDsss!**_
 And it can _run different scripts_ on the computer it's plugged into, like a **USB rubber ducky**!
