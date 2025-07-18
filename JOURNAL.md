@@ -5,6 +5,10 @@ description: "A small flash drive, but with buttons (for shortcuts) and LEDs ins
 created_at: "2025-07-11"
 ---
 
+----
+
+### Total Time Spent: ~23 hours!!
+
 ## July 11th: Completed Schematic + PCB design!
 
 Started out by researching some **RP2040 devboard guides**. Like this [one](https://www.circuitstate.com/projects/mitayi-pico-rp2040-r0-5-open-source-microcontroller-development-board-schematic-pcb-and-assembly/)!
