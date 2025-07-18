@@ -1,0 +1,9 @@
+DELAY 500
+GUI SPACE
+DELAY 500
+Terminal
+DELAY 500
+ENTER
+DELAY 500
+echo Hello from Rubber Ducky!
+ENTER
