@@ -24,5 +24,5 @@ I created this to learn how to make a devboard, how hard it is, and what modific
 
 Subtotal (excluding PCBA): US$25
 
-Estimated cost (PCBA, including parts and PCB): US$140
+Estimated cost (PCBA, including parts and PCB): US$150 (with a coupon!)
 
