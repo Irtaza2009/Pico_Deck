@@ -27,3 +27,9 @@ I made it to learn how hard making a devboard is, and how it is made and what mo
 
 <img width="1000" height="1000" alt="3D Case Top" src="https://github.com/user-attachments/assets/b275727e-d42c-4a0a-9928-67f35f761e7c" />
 <img width="1000" height="1000" alt="3D Case Bottom" src="https://github.com/user-attachments/assets/619b6c87-6cf4-4fbf-9642-200cebef4399" />
+
+
+**PCBA is expensive:**
+
+<img width="598" height="429" alt="image" src="https://github.com/user-attachments/assets/e9a807e3-ea0d-4074-bf27-4773b036660f" />
+
