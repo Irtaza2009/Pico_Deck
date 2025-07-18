@@ -15,7 +15,7 @@ I created this to learn how to make a devboard, how hard it is, and what modific
 | PCB Top Layer         | ![](https://github.com/user-attachments/assets/773044ff-69c9-4aab-93c3-642981f49cec)                                                  |
 | PCB Bottom Layer      | ![](https://github.com/user-attachments/assets/c9127008-7c07-4917-80c3-e31240565601)                                                  |
 | PCB 3D Render Front   | ![](https://github.com/user-attachments/assets/d3730a47-ca12-4814-8c4c-6fdc7cbfad7d)                                                  |
-| PCB 3D Render Back    | ![](https://github.com/user-attachments/assets/08fb3b45-b659-489f-8471-1a0725f66eb9")
+| PCB 3D Render Back    | ![](https://github.com/user-attachments/assets/08fb3b45-b659-489f-8471-1a0725f66eb9)
 | Schematic             | ![](https://github.com/user-attachments/assets/c16c6657-8c1c-4736-9c36-b4b51a29d4b7)                                                  |
 | 3D Case Top           | ![](https://github.com/user-attachments/assets/b275727e-d42c-4a0a-9928-67f35f761e7c)                                                  |
 | 3D Case Bottom        | ![](https://github.com/user-attachments/assets/619b6c87-6cf4-4fbf-9642-200cebef4399)                                                  |
