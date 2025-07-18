@@ -1,0 +1,7 @@
+DELAY 500
+Windows R
+DELAY 300
+cmd
+DELAY 300
+ENTER
+echo Hello from Rubber Ducky!
