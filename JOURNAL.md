@@ -71,6 +71,19 @@ Then I posted the Schematic and PCB design on [r/PrintedCircuitBoard](https://ww
 
 ## July 13th: Review + Schematic and PCB Changes 
 
-I received some valuable feedback from my Reddit post, which prompted me to change the voltage regulator from the AMS1117-3.3 to the AP2112K-3.3. I also fixed several pins on the schematic and added more vias to the ground planes. I attempted to switch to a four-layer design but found the routing to be challenging, so I decided to revert to two layers. I believe the PCB can be finalised now!
+I received some valuable feedback from my Reddit post, which made me change the voltage regulator from the AMS1117-3.3 to the AP2112K-3.3. I also fixed several pins on the schematic and added more vias to the ground planes. I attempted to switch to a four-layer design but found the routing to be challenging, so I decided to revert to two layers. I believe the PCB can be finalised now!
 
 **Total time spent: 2 hours**
+
+## July 17th: 3D Case
+
+I finally remembered to charge my Apple Pencil and reinstall Shapr3D, so I started working on the case. First, I imported the 3D model of the PCB from EasyEDA. Then, I sketched an outline around it, offset it, and extruded the shape. After that, I created the sides and the top plate. 
+
+Next, I added two holes on the bottom side for the boot and reset buttons, along with four holes on the top side for the other buttons. I also included a large rectangle for the debugging headers and a line for the LEDs. To enhance stability, I added spacers to both the bottom and top pieces. Finally, I filleted the edges to give the design a more professional look!
+
+I exported the models as .3mf, because .step is only for the PRO version!
+
+<img width="1000" height="1000" alt="3D Case Top" src="https://github.com/user-attachments/assets/b275727e-d42c-4a0a-9928-67f35f761e7c" />
+<img width="1000" height="1000" alt="3D Case Bottom" src="https://github.com/user-attachments/assets/619b6c87-6cf4-4fbf-9642-200cebef4399" />
+
+**Total time spent: 2.5 hours**
