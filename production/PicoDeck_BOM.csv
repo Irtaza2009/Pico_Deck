@@ -1,0 +1,17 @@
+No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,Price ($),Link
+1,1,SKRPACE010,BOOT,KEY-SMD_4P-L4.2-W3.2-P2.20-LS4.6,,SKRPACE010,ALPSALPINE(阿尔卑斯阿尔派),C139797,LCSC,0.6,https://lcsc.com/product-detail/Tactile-Switches_ALPSALPINE-SKRPACE010_C139797.html?s_z=n_C139797
+2,20,100nF,"C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C14,C15,C16,C17,C18,C19,C20,C21,C22",C0603,100nF,CC0603KRX7R9BB104,YAGEO(国巨),C14663,LCSC,0.24,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html?s_z=n_C14663
+3,2,10uF,"C12,C13",C0603,10uF,CL10A106KP8NNNC,SAMSUNG(三星),C19702,LCSC,0.3,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.html?s_z=n_C19702
+4,2,14pF,"C23,C24",C0603,14pF,TCC0603COG140J500CT,CCTC(三环),C5360816,LCSC,0.3,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_CCTC-TCC0603COG140J500CT_C5360816.html?s_z=n_C5360816
+5,8,WS2812B-2020,"LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8",LED-SMD_4P-L2.0-W2.0-TL_WS2812B-2020,,WS2812B-2020,worldsemi,C965555,LCSC,4.0,https://lcsc.com/product-detail/RGB-LEDs-Built-in-IC_Worldsemi-WS2812B-2020_C965555.html?s_z=n_C965555
+6,2,27Ω,"R1,R2",R0603,27Ω,RC0603FR-0727RL,YAGEO(国巨),C137753,LCSC,0.12,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-0727RL_C137753.html?s_z=n_C137753
+7,2,10kΩ,"R3,R5",R0603,10kΩ,RC0603FR-0710KL,YAGEO(国巨),C98220,LCSC,0.11,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-0710KL_C98220.html?s_z=n_C98220
+8,1,1kΩ,R4,R0603,1kΩ,RC0603FR-071KL,YAGEO(国巨),C22548,LCSC,0.11,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-071KL_C22548.html?s_z=n_C22548
+9,1,B3U-1000P,RESET_KEY1,KEY-SMD_B3U-1000PM,,B3U-1000P,OMRON(欧姆龙),C231329,LCSC,2.0,https://lcsc.com/product-detail/Tactile-Switches_OMRON-B3U-1000P_C231329.html?s_z=n_B3U-1000P%2509
+10,4,TS-1002S-05026C,"SW1,SW2,SW3,SW4",KEY-SMD_4P-L6.0-W6.0-P4.50-LS9.0,,TS-1002S-05026C,XUNPU(讯普),C455110,LCSC,1.0,https://lcsc.com/product-detail/Tactile-Switches_XUNPU-TS-1002S-05026C_C455110.html?s_z=n_C455110
+11,1,B-2100S04P-A110,SWD1,HDR-TH_4P-P2.54-V-M,,B-2100S04P-A110,Ckmtw(灿科盟),C124378,LCSC,0.41,https://lcsc.com/product-detail/Pin-Headers_Ckmtw-Shenzhen-Cankemeng-B-2100S04P-A110_C124378.html?s_z=n_C124378
+12,1,RP2040,U1,LQFN-56_L7.0-W7.0-P0.4-EP,,RP2040,Raspberry Pi(树莓派),C2040,LCSC,6.0,https://lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_Raspberry-Pi-RP2040_C2040.html?s_z=n_C2040
+13,1,AP2112K-3.3TRG1,U6,SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL,,AP2112K-3.3TRG1,DIODES(美台),C51118,LCSC,1.0,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_DIODES-AP2112K-3-3TRG1_C51118.html?s_z=n_C51118
+14,1,W25Q128JWPIQ,U7,WSON-8_L6.0-W5.0-P1.27-BL-EP,,W25Q128JWPIQ,Winbond(华邦),C2689660,LCSC,5.8,https://lcsc.com/product-detail/NOR-FLASH_Winbond-W25Q128JWPIQ_C2689660.html?s_z=n_C2689660
+15,1,AM90,USB3,USB-AM-TH_AM90,,AM90,SHOU HAN(首韩),C404965,LCSC,0.62,https://lcsc.com/product-detail/USB-Connectors_SHOU-HAN-AM90_C404965.html?s_z=n_C404965
+16,1,12MHz,X1,CRYSTAL-SMD_4P-L3.2-W2.5-BL,12MHz,TAXM12M4RFBCCT2T,YJX(雅晶鑫),C133337,LCSC,0.51,https://lcsc.com/product-detail/Crystals_Yajingxin-TAXM12M4RFBCCT2T_C133337.html?s_z=n_C133337
